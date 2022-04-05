@@ -18,7 +18,8 @@
     "@strapi/plugin-users-permissions": "4.1.7",
     "@strapi/strapi": "4.1.7",
     "better-sqlite3": "7.4.6",
-    "date-fns": "^2.28.0"
+    "date-fns": "^2.28.0",
+    "pg": "^8.7.3"
   },
   "author": {
     "name": "A Strapi developer"
