@@ -22,9 +22,7 @@
     "pg": "^8.7.3",
     "strapi-provider-email-sendgrid": "^3.6.8"
   },
-  "author": {
-    "name": "A Strapi developer"
-  },
+  "author": "A Strapi developer",
   "strapi": {
     "uuid": "2f2bfb9d-7623-42a0-b190-b3c4242457f6"
   },
@@ -32,5 +30,7 @@
     "node": ">=12.x.x <=16.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "git@github.com:jaredgoldman/cleare-glade-api.git"
 }
