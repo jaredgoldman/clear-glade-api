@@ -9915,7 +9915,7 @@ std-env@^2.2.1:
 
 strapi-provider-email-sendgrid@^3.6.8:
   version "3.6.8"
-  resolved "https://registry.npmjs.org/strapi-provider-email-sendgrid/-/strapi-provider-email-sendgrid-3.6.8.tgz"
+  resolved "https://registry.yarnpkg.com/strapi-provider-email-sendgrid/-/strapi-provider-email-sendgrid-3.6.8.tgz#47699a50e5e43b98e75c3a776b58319189e352df"
   integrity sha512-l31T2LqTn1rAtWrMwRkN4OGtqmZJ40FoWsZDu247UQCAqtvHCcNeOttcgMGkkLjIG+arysfn8otsY1yudLwu1A==
   dependencies:
     "@sendgrid/mail" "6.4.0"
