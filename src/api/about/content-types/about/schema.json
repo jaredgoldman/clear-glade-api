@@ -20,6 +20,23 @@
     },
     "project": {
       "type": "richtext"
+    },
+    "FAQ": {
+      "type": "component",
+      "repeatable": true,
+      "component": "accordion.field"
+    },
+    "faq_heading": {
+      "type": "string"
+    },
+    "contact_heading": {
+      "type": "string"
+    },
+    "farm_heading": {
+      "type": "string"
+    },
+    "project_heading": {
+      "type": "string"
     }
   }
 }

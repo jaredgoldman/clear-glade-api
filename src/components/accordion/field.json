@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_accordion_fields",
+  "info": {
+    "displayName": "Field",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
