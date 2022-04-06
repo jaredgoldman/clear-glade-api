@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "inventories",
+  "info": {
+    "singularName": "inventory",
+    "pluralName": "inventories",
+    "displayName": "Inventory",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "notes_heading": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "richtext"
+    }
+  }
+}

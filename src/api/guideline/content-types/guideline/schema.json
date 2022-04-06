@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "guidelines",
+  "info": {
+    "singularName": "guideline",
+    "pluralName": "guidelines",
+    "displayName": "Guidelines",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "lodging": {
+      "type": "richtext"
+    },
+    "property": {
+      "type": "richtext"
+    },
+    "facilities": {
+      "type": "richtext"
+    }
+  }
+}
